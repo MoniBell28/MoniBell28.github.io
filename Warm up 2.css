@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    font-size: 30pt;
+}
+ #section-one{
+   color: rgb(85, 10, 156);  
+border: 2px solid black;
+margin: 50px;
+ }
+
+ #section-two{
+     color: rgb(201, 147, 227);
+     border: 2px solid black;
+     margin: 50px;
+     
+ }
+ 
+#section-three{
+    color: rgb(79, 14, 108);
+    border: 2px solid black;
+    margin: 50px
+}
